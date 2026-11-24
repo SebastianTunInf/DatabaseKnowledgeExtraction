@@ -1,0 +1,6 @@
+﻿Dataset,Rows,Columns,Missing Values,Duplicates
+esports_country_earnings_by_year_clean.csv,2122,6,0,0
+esports_game_earnings_by_year_clean.csv,2247,7,0,0
+esports_player_earnings_by_year_clean.csv,2625,12,723,0
+esports_team_earnings_by_game_clean.csv,7560,7,0,0
+esports_team_earnings_by_year_clean.csv,7879,6,0,0
